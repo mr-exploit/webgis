@@ -1,0 +1,26 @@
+.center-text {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+.mt-6{
+   top: 0;
+   bottom: 0;
+   margin-top: 300px;
+}
+
+.image-container {
+  position: relative;
+}
+
+.text-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(3, 3, 3, 0.3);
+  width: 100%;
+  text-align: center;
+  color: white; /* Adjust text color as needed */
+}

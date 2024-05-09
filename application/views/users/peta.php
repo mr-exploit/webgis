@@ -1,0 +1,1 @@
+<div id="map" style="height: calc(100vh - 58px);"></div>
